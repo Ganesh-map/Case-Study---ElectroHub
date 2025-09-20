@@ -10,8 +10,7 @@ As a data analyst at **ElectroHub**, a company originally focused on electronics
 - Enabled **advanced analytics** on sales, profit, and product-level performance.  
 
 **Data Sources / Tools Used:**  
-- Power BI (dashboard creation and visualization)  
-- [Optional: SQL / Excel / CSV if applicable]  
+- Power BI (dashboard creation and visualization)   
 
 ---
 
@@ -20,7 +19,7 @@ As a data analyst at **ElectroHub**, a company originally focused on electronics
 - **Bottom performers:** Non-tech items (Lunch box, Shampoo, Lotion, Toothpaste) are lagging, indicating the new categories haven’t reached the success of the tech segment yet.  
 
 **Screenshot:**  
-![Top vs Bottom Products](<img width="835" height="372" alt="top vs bottom" src="https://github.com/user-attachments/assets/d648b996-bf11-41e9-a7f9-d077709d54d8" />)
+<img width="835" height="372" alt="top vs bottom" src="https://github.com/user-attachments/assets/d648b996-bf11-41e9-a7f9-d077709d54d8" />
 
 
 ---
