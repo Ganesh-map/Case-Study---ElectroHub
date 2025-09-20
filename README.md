@@ -32,7 +32,7 @@ As a data analyst at **ElectroHub**, a company originally focused on electronics
 - **Order Volume:** Over 3,500 orders captured; stable demand indicates a loyal customer base.  
 
 **Screenshot:**  
-![Trends and City Insights](<img width="886" height="496" alt="main report" src="https://github.com/user-attachments/assets/b2a37992-1139-41cb-83e6-3ff9157baeac" />)
+<img width="886" height="496" alt="main report" src="https://github.com/user-attachments/assets/b2a37992-1139-41cb-83e6-3ff9157baeac" />
 
 ---
 
