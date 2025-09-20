@@ -20,7 +20,8 @@ As a data analyst at **ElectroHub**, a company originally focused on electronics
 - **Bottom performers:** Non-tech items (Lunch box, Shampoo, Lotion, Toothpaste) are lagging, indicating the new categories haven’t reached the success of the tech segment yet.  
 
 **Screenshot:**  
-![Top vs Bottom Products](./images/product_performance.png)
+![Top vs Bottom Products](<img width="835" height="372" alt="top vs bottom" src="https://github.com/user-attachments/assets/d648b996-bf11-41e9-a7f9-d077709d54d8" />)
+
 
 ---
 
@@ -32,7 +33,7 @@ As a data analyst at **ElectroHub**, a company originally focused on electronics
 - **Order Volume:** Over 3,500 orders captured; stable demand indicates a loyal customer base.  
 
 **Screenshot:**  
-![Trends and City Insights](./images/city_trends.png)
+![Trends and City Insights](<img width="886" height="496" alt="main report" src="https://github.com/user-attachments/assets/b2a37992-1139-41cb-83e6-3ff9157baeac" />)
 
 ---
 
